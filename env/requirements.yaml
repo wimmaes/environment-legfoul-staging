@@ -10,3 +10,6 @@ dependencies:
 - name: spring-boot-rest-prometheus
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: testone
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
